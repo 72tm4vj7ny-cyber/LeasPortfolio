@@ -3782,3 +3782,12 @@ main, section, article, .section-head, .work-grid, .work-item, .experience-card,
   position: absolute !important; inset: 0 !important;
   width: 100% !important; height: 100% !important; border: 0 !important;
 }
+
+
+/* Final targeted polish: center La Conception copy and keep its hosted media cleanly framed. */
+#work .work-item.large > .conception-side-copy { text-align: center !important; align-items: center !important; }
+#work .work-item.large > .conception-side-copy p { max-width: 42ch !important; text-align: center !important; }
+#work .work-item.large > .conception-side-copy::before { text-align: center !important; }
+#work [data-media="w2w"] .youtube-media-item,
+#work [data-media="w2w"] .youtube-embed-frame { width: 100% !important; height: 100% !important; display: block !important; border: 0 !important; }
+#work [data-media="w2w"] .youtube-media-item { overflow: hidden !important; }

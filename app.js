@@ -46,7 +46,8 @@ const YOUTUBE_MEDIA = {
     { id:"ZQB1K4hWO2s", ratio:"9 / 16", label:"Sport Content — YouTube Short" },
     { tiktokId:"7646470778187222304", ratio:"9 / 16", label:"20 km de Bruxelles — TikTok" }
   ],
-  school1: [{ id:"RlB6fXD5CFQ", ratio:"9 / 16", label:"School Content vlog" }]
+  school1: [{ id:"RlB6fXD5CFQ", ratio:"9 / 16", label:"School Content vlog" }],
+  w2w: [{ id:"Qc660Zu_hZI", ratio:"9 / 16", label:"Women2Women — Boston" }]
 };
 
 
